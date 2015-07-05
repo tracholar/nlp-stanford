@@ -1,4 +1,5 @@
 # coding:utf-8
+
 from os import system
 import sys,time
 if len(sys.argv)==2:
