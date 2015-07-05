@@ -1,0 +1,4862 @@
+#	30345
+to	5239
+the	5201
+and	4896
+of	4291
+i	3178
+a	3129
+it	2528
+her	2469
+was	2398
+she	2340
+in	2188
+not	2140
+you	1980
+be	1975
+that	1806
+he	1806
+had	1624
+but	1441
+as	1436
+for	1347
+have	1320
+is	1240
+with	1217
+very	1202
+mr	1153
+his	1145
+at	1031
+so	974
+s	935
+emma	865
+all	845
+could	837
+would	820
+him	759
+been	759
+no	742
+my	728
+mrs	699
+on	692
+any	654
+do	640
+were	600
+miss	599
+me	573
+by	571
+will	570
+must	567
+which	556
+there	549
+from	546
+they	540
+what	536
+this	526
+harriet	506
+or	494
+such	489
+much	486
+if	485
+said	484
+more	467
+an	464
+are	455
+one	452
+weston	440
+every	435
+them	432
+am	425
+than	415
+well	401
+thing	398
+knightley	389
+elton	385
+think	383
+how	371
+should	369
+your	364
+when	363
+little	359
+good	358
+never	358
+being	358
+did	352
+we	349
+only	341
+know	337
+might	326
+woodhouse	313
+say	310
+now	309
+their	306
+own	301
+jane	301
+who	294
+can	284
+quite	282
+herself	279
+time	279
+great	264
+some	262
+nothing	256
+too	254
+before	250
+has	250
+about	249
+most	248
+fairfax	241
+dear	241
+always	238
+man	235
+thought	226
+churchill	224
+soon	224
+see	222
+may	221
+other	221
+again	219
+shall	217
+without	214
+out	212
+first	209
+frank	208
+father	207
+sure	204
+indeed	202
+like	200
+made	199
+ever	193
+body	193
+oh	193
+young	192
+day	192
+up	190
+two	178
+friend	177
+though	177
+better	173
+come	172
+then	169
+just	165
+into	163
+after	161
+hartfield	160
+give	159
+upon	159
+way	155
+here	154
+really	153
+make	152
+bates	148
+having	147
+rather	146
+long	146
+himself	146
+us	145
+hope	143
+done	142
+cannot	142
+seemed	141
+over	139
+away	138
+many	138
+poor	136
+wish	135
+while	133
+go	132
+even	132
+woman	131
+however	131
+home	130
+does	130
+enough	129
+mind	128
+highbury	125
+happy	125
+yes	125
+its	122
+look	121
+heard	120
+going	120
+moment	120
+last	119
+take	119
+came	119
+half	118
+room	117
+love	117
+pleasure	115
+still	115
+another	114
+felt	113
+something	113
+sort	112
+morning	111
+letter	109
+yet	109
+saw	108
+few	106
+myself	103
+till	102
+believe	102
+same	102
+feelings	102
+certainly	101
+hear	100
+idea	100
+speak	99
+perhaps	99
+off	99
+doubt	98
+`	97
+our	97
+subject	97
+evening	96
+party	96
+house	95
+those	95
+ought	95
+people	95
+feel	95
+word	94
+place	93
+found	92
+right	92
+deal	92
+looked	91
+often	91
+let	90
+want	90
+john	90
+randalls	90
+present	89
+smith	89
+coming	89
+knew	88
+almost	88
+where	87
+visit	86
+least	85
+best	85
+both	85
+old	85
+martin	85
+possible	84
+hour	83
+once	83
+kind	82
+friends	82
+cried	81
+suppose	81
+world	81
+together	81
+perry	80
+life	80
+else	80
+gone	80
+replied	79
+told	78
+family	77
+tell	77
+given	77
+whole	76
+happiness	76
+obliged	76
+wanted	75
+manner	75
+find	75
+seen	73
+nobody	73
+between	73
+whom	73
+ill	73
+lady	73
+mother	72
+able	72
+three	72
+opinion	71
+side	71
+hardly	71
+far	70
+part	70
+short	70
+immediately	70
+down	70
+looking	69
+isabella	69
+carriage	69
+pretty	68
+left	68
+understand	68
+less	68
+wife	68
+get	67
+perfectly	67
+back	67
+person	67
+talked	66
+heart	66
+extremely	66
+sir	66
+these	66
+ready	66
+true	66
+towards	66
+comfort	65
+since	65
+general	65
+afraid	65
+put	64
+answer	64
+nor	64
+either	64
+spirits	64
+situation	64
+began	64
+whether	64
+marry	63
+next	63
+under	63
+set	63
+acquaintance	63
+daughter	62
+therefore	62
+things	62
+change	61
+sorry	61
+course	61
+through	61
+cole	61
+children	60
+known	60
+talk	60
+bad	60
+others	60
+thinking	60
+superior	59
+goddard	59
+longer	59
+account	59
+attention	59
+assure	59
+dare	59
+mean	59
+taken	58
+leave	58
+exactly	58
+making	57
+years	57
+aunt	57
+equal	57
+yourself	56
+degree	56
+chapter	56
+sense	56
+name	56
+feeling	56
+return	56
+state	56
+walk	56
+business	55
+brother	55
+imagine	55
+passed	55
+why	55
+brought	54
+beyond	54
+cold	54
+gave	54
+manners	53
+hand	53
+talking	53
+because	53
+minutes	53
+natural	52
+satisfied	52
+read	52
+bear	52
+walked	52
+directly	51
+care	51
+eyes	51
+saying	51
+campbell	51
+among	51
+point	51
+usual	51
+seeing	51
+agreeable	50
+glad	50
+used	50
+days	50
+rest	50
+affection	50
+donwell	49
+appeared	49
+wonder	49
+words	49
+dinner	49
+wished	48
+end	48
+attachment	48
+remember	48
+society	48
+means	48
+ah	48
+taylor	48
+pleased	47
+door	47
+allow	47
+took	47
+interest	47
+voice	47
+son	47
+girl	47
+went	46
+giving	46
+near	46
+full	46
+speaking	46
+believed	46
+each	46
+particularly	46
+against	46
+likely	46
+doing	45
+walking	45
+london	45
+already	45
+air	45
+ladies	45
+married	45
+smile	44
+called	44
+strong	44
+farther	44
+dixon	44
+stay	44
+ask	43
+character	43
+hoped	43
+meant	43
+respect	43
+regard	43
+proper	42
+spoke	42
+fine	42
+need	42
+different	42
+real	42
+five	42
+conversation	42
+call	42
+delightful	41
+pleasant	41
+reason	41
+impossible	41
+open	41
+nature	41
+afterwards	41
+early	41
+night	41
+power	41
+consider	40
+particular	40
+weather	40
+sitting	40
+themselves	40
+allowed	40
+thank	40
+beginning	40
+expected	40
+kindness	40
+head	40
+returned	39
+round	39
+settled	39
+fortune	39
+creature	39
+wrong	39
+help	39
+entirely	39
+health	39
+sometimes	39
+fond	39
+meeting	39
+object	39
+whose	39
+letters	39
+question	39
+colonel	38
+sit	38
+continued	38
+fancy	38
+bring	38
+neither	38
+met	38
+asked	38
+child	38
+engaged	38
+thoughts	38
+use	38
+handsome	38
+added	37
+truth	37
+surprize	37
+sat	37
+convinced	37
+seem	37
+probably	36
+new	36
+enscombe	36
+got	36
+forward	36
+determined	36
+appear	36
+news	36
+received	36
+temper	36
+necessary	36
+meaning	36
+common	35
+company	35
+marriage	35
+amiable	35
+please	35
+gentleman	35
+supposed	35
+large	35
+taste	35
+excellent	34
+comfortable	34
+perfect	34
+circumstance	34
+pain	34
+husband	34
+obliging	34
+morrow	34
+sent	33
+men	33
+keep	33
+wanting	33
+dancing	33
+evil	33
+absolutely	33
+sister	33
+within	33
+acquainted	33
+papa	33
+pass	32
+meet	32
+surprized	32
+face	32
+matter	32
+match	32
+except	32
+hearing	32
+robert	32
+charming	32
+ago	32
+small	31
+says	31
+ten	31
+second	31
+praise	31
+eye	31
+circumstances	31
+smiling	31
+abbey	31
+spoken	31
+maple	31
+engagement	31
+interesting	31
+grove	31
+compliment	31
+difference	31
+case	31
+ball	31
+anxious	31
+danger	31
+begin	31
+yesterday	31
+persuaded	31
+serious	31
+resolution	31
+four	30
+worth	30
+difficulty	30
+warm	30
+fair	30
+appearance	30
+drawing	30
+twenty	30
+months	30
+delighted	30
+worse	30
+knows	30
+none	29
+followed	29
+merely	29
+excuse	29
+beauty	29
+looks	29
+actually	29
+greater	29
+attentions	29
+turned	29
+cheerful	29
+gratitude	29
+week	29
+greatest	29
+judgment	29
+understanding	28
+ashamed	28
+taking	28
+turn	28
+curiosity	28
+whenever	28
+forget	28
+times	28
+year	28
+occasion	28
+satisfaction	28
+resolved	28
+easy	28
+shew	28
+late	27
+advantage	27
+honour	27
+table	27
+clever	27
+style	27
+fortunate	27
+companion	27
+consequence	27
+view	27
+tea	27
+loved	27
+spirit	27
+conduct	27
+notice	27
+decided	27
+alone	27
+happened	27
+parties	27
+instead	27
+certain	27
+depend	26
+regret	26
+odd	26
+completely	26
+aware	26
+mentioned	26
+friendship	26
+tried	26
+plan	26
+favour	26
+knowing	26
+pity	26
+pray	26
+campbells	26
+marrying	26
+judge	26
+mine	26
+crown	26
+sight	26
+knowledge	26
+elegant	25
+led	25
+hours	25
+standing	25
+quarter	25
+extraordinary	25
+guess	25
+silent	25
+distance	25
+sad	25
+especially	25
+pay	25
+vain	25
+sensible	25
+lived	25
+quiet	25
+horses	25
+instrument	25
+struck	25
+sake	25
+behaviour	25
+attached	25
+hurry	24
+consideration	24
+disposition	24
+highly	24
+music	24
+beautiful	24
+write	24
+event	24
+turning	24
+also	24
+fact	24
+spite	24
+justice	24
+country	24
+comes	24
+tone	24
+seems	24
+written	24
+entered	24
+influence	24
+gentlemen	24
+_she_	24
+generally	24
+chuse	24
+admiration	24
+send	23
+box	23
+henry	23
+purpose	23
+proof	23
+due	23
+join	23
+understood	23
+service	23
+scheme	23
+self	23
+approbation	23
+note	23
+altogether	23
+became	23
+observe	23
+plain	23
+summer	23
+hands	23
+quick	23
+loss	23
+thinks	23
+uncle	23
+trying	23
+favourite	23
+town	23
+dance	22
+pleasing	22
+telling	22
+wait	22
+work	22
+blush	22
+hill	22
+rain	22
+presently	22
+caught	22
+kept	22
+pianoforte	22
+picture	22
+answered	22
+mistaken	22
+observed	22
+enjoyment	22
+command	22
+claims	22
+sweet	22
+couple	22
+eltons	22
+william	22
+age	22
+try	21
+suspect	21
+charade	21
+_her_	21
+information	21
+lost	21
+weeks	21
+safe	21
+likeness	21
+invitation	21
+agreed	21
+niece	21
+useful	21
+duty	21
+disposed	21
+encouragement	21
+delight	21
+scarcely	21
+spent	21
+consciousness	21
+inclination	21
+stand	21
+promise	21
+secret	21
+hopes	21
+deserve	21
+lately	21
+intimacy	21
+wishes	20
+past	20
+hers	20
+recommend	20
+sudden	20
+considering	20
+disagreeable	20
+suspicion	20
+nonsense	20
+expect	20
+fortnight	20
+attempt	20
+smallest	20
+disappointed	20
+imagined	20
+fixed	20
+whatever	20
+connexion	20
+women	20
+otherwise	20
+dearest	20
+ease	20
+fault	20
+reasonable	20
+important	20
+silence	20
+bath	20
+respectable	20
+complete	20
+chance	20
+safely	19
+tired	19
+sigh	19
+dreadful	19
+makes	19
+distress	19
+angry	19
+high	19
+delay	19
+road	19
+worst	19
+move	19
+speech	19
+mention	19
+wrote	19
+_you_	19
+thrown	19
+anxiety	19
+paid	19
+busy	19
+considered	19
+behind	19
+unhappy	19
+hint	19
+forgotten	19
+passing	19
+hawkins	19
+eager	19
+james	19
+thoroughly	19
+lose	19
+t	19
+calling	19
+recollect	19
+low	19
+form	19
+offer	19
+single	19
+desirable	18
+rate	18
+credit	18
+occurred	18
+pride	18
+friendly	18
+simple	18
+law	18
+lines	18
+equally	18
+rational	18
+listen	18
+happily	18
+joy	18
+close	18
+finding	18
+play	18
+charge	18
+circle	18
+concern	18
+disappointment	18
+effect	18
+arrived	18
+opportunity	18
+reflection	18
+severe	18
+period	18
+worthy	18
+living	18
+spend	18
+amused	18
+dislike	17
+trouble	17
+joined	17
+prevent	17
+exercise	17
+laughing	17
+confidence	17
+live	17
+history	17
+indifferent	17
+arrangement	17
+wishing	17
+inferior	17
+shewed	17
+views	17
+growing	17
+stopped	17
+returning	17
+besides	17
+warmly	17
+remained	17
+regular	17
+vicarage	17
+during	17
+coles	17
+miles	17
+promised	17
+gives	17
+countenance	17
+wedding	17
+weymouth	17
+humour	17
+possibly	17
+run	17
+slight	17
+ourselves	17
+repeated	17
+considerable	17
+alarm	17
+smiled	17
+difficulties	17
+elegance	16
+neighbours	16
+minute	16
+waiting	16
+anywhere	16
+conviction	16
+admired	16
+ideas	16
+intended	16
+delicacy	16
+refuse	16
+office	16
+somebody	16
+opened	16
+seriously	16
+cause	16
+assured	16
+gentle	16
+arm	16
+laughed	16
+don	16
+occupied	16
+listened	16
+ways	16
+future	16
+liked	16
+laugh	16
+fire	16
+thousand	16
+mistake	16
+agitation	16
+education	16
+fully	16
+snow	16
+cut	16
+suffering	16
+getting	16
+mere	16
+ford	16
+line	16
+proved	16
+amusement	16
+welcome	16
+reached	16
+grateful	15
+concerned	15
+stood	15
+aye	15
+share	15
+express	15
+chosen	15
+hundred	15
+neighbourhood	15
+dine	15
+totally	15
+master	15
+compliments	15
+churchills	15
+gratified	15
+nephew	15
+ground	15
+stop	15
+opening	15
+drawn	15
+reading	15
+apples	15
+confusion	15
+invited	15
+comprehend	15
+absence	15
+value	15
+belong	15
+rooms	15
+tolerably	15
+vanity	15
+escape	15
+prepared	15
+act	15
+placed	15
+agree	15
+cure	15
+interested	15
+smiles	15
+itself	15
+expectation	14
+writing	14
+assistance	14
+following	14
+passage	14
+hold	14
+remain	14
+servants	14
+caution	14
+advice	14
+order	14
+nearly	14
+produced	14
+acknowledge	14
+instantly	14
+staying	14
+receiving	14
+habit	14
+ireland	14
+undoubtedly	14
+explanation	14
+immediate	14
+powers	14
+_i_	14
+merit	14
+favourable	14
+rich	14
+consent	14
+indifference	14
+seldom	14
+suckling	14
+sea	14
+tender	14
+musical	14
+reply	14
+catch	14
+suspected	14
+former	14
+utmost	14
+persuade	14
+strange	14
+endeavour	14
+infinitely	14
+easily	14
+spring	14
+story	14
+naturally	14
+hair	14
+deep	14
+fears	14
+visits	14
+required	14
+proposed	14
+fresh	14
+month	13
+follow	13
+increase	13
+unpleasant	13
+compassion	13
+school	13
+grandmama	13
+richmond	13
+public	13
+appears	13
+boy	13
+attend	13
+evidently	13
+winter	13
+suffer	13
+hearted	13
+confess	13
+light	13
+paper	13
+fit	13
+window	13
+willing	13
+break	13
+harm	13
+excepting	13
+possibility	13
+expecting	13
+sensations	13
+blind	13
+madam	13
+fast	13
+girls	13
+wonderful	13
+bride	13
+endure	13
+prospect	13
+strength	13
+parting	13
+observation	13
+arrival	13
+decidedly	13
+martins	13
+judged	13
+leisure	13
+larkins	13
+burst	13
+intelligence	13
+bed	13
+solicitude	13
+invite	13
+dining	13
+proceeded	13
+particulars	13
+suspicions	13
+imagination	13
+assist	13
+fancying	13
+civil	13
+around	13
+admitted	13
+avoid	13
+post	13
+suit	13
+boys	13
+piece	13
+objection	13
+nash	13
+sound	12
+desired	12
+ma	12
+induced	12
+settle	12
+silly	12
+above	12
+melancholy	12
+separate	12
+misery	12
+private	12
+glance	12
+impatient	12
+thus	12
+intelligible	12
+awkward	12
+parlour	12
+bye	12
+sooner	12
+intercourse	12
+habits	12
+_him_	12
+square	12
+hard	12
+happen	12
+advantages	12
+probability	12
+size	12
+feared	12
+folly	12
+beg	12
+seated	12
+claim	12
+venture	12
+declare	12
+frightened	12
+acknowledged	12
+_that_	12
+breakfast	12
+doors	12
+clear	12
+drive	12
+moments	12
+truly	12
+questions	12
+complexion	12
+importance	12
+spare	12
+recovered	12
+patty	12
+warmth	12
+formed	12
+wretched	12
+finished	12
+earnestly	12
+throat	12
+excessively	12
+increased	12
+inquiry	12
+sisters	12
+six	12
+touch	12
+thorough	12
+preference	12
+nay	12
+d	12
+become	12
+proceed	12
+eat	12
+material	12
+lively	12
+becoming	12
+arranged	12
+gallantry	12
+lead	12
+begun	12
+exclaimed	12
+peace	12
+suffered	12
+blessing	12
+journey	12
+companions	11
+mile	11
+chair	11
+wholly	11
+bringing	11
+pork	11
+street	11
+carriages	11
+mill	11
+paying	11
+pause	11
+extreme	11
+accomplished	11
+quarrel	11
+wit	11
+prove	11
+brunswick	11
+keeping	11
+accept	11
+dependence	11
+garden	11
+hot	11
+lay	11
+_not_	11
+succeeded	11
+conscious	11
+dream	11
+maid	11
+differently	11
+remarkably	11
+fear	11
+affections	11
+persuasion	11
+peculiarly	11
+luck	11
+borne	11
+gallant	11
+independence	11
+deceived	11
+mistress	11
+mad	11
+message	11
+behaved	11
+exploring	11
+kindly	11
+comfortably	11
+forced	11
+eagerly	11
+subjects	11
+connected	11
+steady	11
+points	11
+laid	11
+reserve	11
+highest	11
+book	11
+disengaged	11
+thanks	11
+seat	11
+miserable	11
+youth	11
+secured	11
+faults	11
+raise	11
+cared	11
+judging	11
+lovely	11
+closed	11
+wants	11
+families	11
+exceedingly	11
+partner	11
+tells	11
+advise	11
+persons	11
+supper	11
+humble	11
+confined	11
+human	11
+add	11
+scruple	11
+success	11
+patience	11
+housekeeper	11
+continue	11
+christmas	11
+uneasy	11
+step	11
+comparison	11
+nervous	11
+happier	11
+places	11
+mortification	11
+concealment	11
+compared	11
+sufficient	11
+lane	11
+e	11
+entreat	11
+-------------------------
+# and	3443
+# i	1873
+# but	1271
+# she	1023
+# s	935
+# he	774
+# it	711
+# the	668
+to be	607
+of the	559
+# that	549
+# you	534
+in the	445
+it was	444
+# weston	428
+i am	395
+# elton	382
+# to	372
+# as	367
+# mr	351
+# in	350
+# emma	345
+she had	332
+she was	328
+# a	316
+# knightley	316
+# said	311
+had been	308
+it is	299
+# if	282
+i have	281
+could not	278
+# for	274
+of her	262
+# my	259
+have been	243
+he had	240
+to the	237
+# with	236
+# there	236
+# which	236
+do not	235
+# or	225
+and the	224
+he was	222
+# was	219
+# they	216
+would be	215
+# no	210
+such a	200
+a very	198
+of his	191
+# mrs	188
+to her	188
+# oh	187
+to have	184
+that she	184
+did not	183
+and i	182
+must be	181
+that he	181
+i do	181
+in a	180
+# how	179
+miss woodhouse	173
+she could	171
+for the	169
+# when	167
+all the	167
+# so	166
+any thing	165
+# her	164
+was not	164
+# what	164
+# miss	164
+will be	160
+but i	154
+# who	152
+frank churchill	151
+a little	150
+on the	150
+of it	149
+of a	149
+would not	147
+was a	147
+not be	146
+my dear	146
+you are	145
+as to	145
+# of	144
+# we	142
+# very	140
+there was	140
+# this	137
+would have	136
+a great	135
+# woodhouse	135
+her own	133
+# harriet	133
+that i	126
+every thing	126
+with the	125
+miss fairfax	125
+is not	124
+for her	123
+she is	122
+with a	122
+it would	122
+# however	121
+# though	120
+i shall	120
+# at	118
+is a	118
+at the	117
+at all	117
+# yes	116
+and she	115
+you know	114
+# indeed	114
+miss bates	113
+had not	112
+to say	111
+# had	111
+jane fairfax	111
+i was	111
+# not	110
+am sure	109
+i should	109
+every body	109
+i had	107
+i think	107
+be a	106
+might be	106
+# well	105
+# his	104
+you will	104
+with her	104
+they were	103
+by the	102
+as she	102
+to see	100
+# by	100
+very much	100
+there is	100
+so much	99
+the same	99
+the very	99
+and mrs	99
+# do	98
+her father	98
+he is	97
+not have	97
+he could	96
+in her	95
+could be	95
+from the	95
+she would	94
+her to	94
+but it	90
+was the	90
+of mr	88
+# on	88
+# frank	88
+to me	87
+for a	87
+you have	86
+so very	86
+if you	86
+i hope	86
+i could	85
+# is	85
+i can	85
+# such	84
+young man	84
+that it	84
+i must	84
+sort of	84
+he would	84
+and a	84
+and that	83
+to do	83
+was very	82
+should be	82
+and mr	81
+not know	81
+but she	81
+was to	80
+more than	80
+his own	79
+will not	79
+any body	78
+to you	78
+the world	76
+and he	76
+and it	76
+in his	75
+as he	75
+i will	74
+# every	74
+as i	74
+not to	74
+the other	74
+to give	74
+may be	73
+very well	73
+# perhaps	73
+to a	73
+# `	73
+# jane	73
+all that	73
+of being	73
+a few	72
+ought to	72
+# one	72
+the first	72
+think of	70
+do you	70
+if he	70
+# without	70
+and as	70
+him to	70
+it will	69
+be the	69
+said he	69
+to think	69
+# from	68
+out of	68
+to make	68
+and her	68
+and miss	67
+at hartfield	67
+and emma	67
+must have	67
+able to	67
+obliged to	66
+which she	66
+i cannot	66
+as you	65
+and so	65
+that you	65
+# churchill	64
+one of	64
+emma was	64
+does not	64
+as a	64
+to him	64
+great deal	64
+be so	64
+# cried	64
+you must	64
+such an	63
+the subject	63
+and his	63
+the whole	63
+that is	62
+said she	62
+it to	62
+i would	62
+have a	62
+in love	61
+emma could	61
+have no	61
+should not	61
+a good	60
+she did	60
+is the	60
+was so	60
+# perry	60
+and then	60
+said emma	59
+i know	59
+# goddard	59
+is so	59
+of all	59
+of their	59
+going to	58
+be very	58
+they are	58
+miss smith	58
+john knightley	58
+i never	57
+had a	57
+to mrs	57
+she must	57
+# cole	57
+a man	57
+the most	57
+# would	57
+# john	56
+had no	56
+# while	56
+to his	56
+that the	56
+a most	56
+was in	56
+# now	56
+this is	56
+# were	55
+of this	55
+of my	55
+at least	55
+# than	55
+if i	55
+has been	55
+i dare	54
+not think	54
+is very	53
+you would	53
+should have	53
+# after	53
+and when	53
+enough to	53
+might have	52
+# sir	52
+# chapter	52
+assure you	52
+to mr	52
+but the	52
+with all	52
+idea of	52
+it must	52
+to come	51
+# all	51
+and was	51
+# upon	51
+dare say	51
+to hear	51
+as well	50
+but you	50
+have not	50
+of mrs	50
+he has	50
+they had	49
+as much	49
+you were	49
+who had	49
+it had	49
+# poor	49
+but he	49
+into the	48
+on her	48
+his father	48
+of any	48
+was no	48
+the house	48
+miss taylor	48
+of him	48
+an hour	48
+i did	48
+the two	48
+as the	48
+# replied	48
+of that	48
+# martin	47
+very good	47
+with him	47
+i assure	47
+could have	46
+me to	46
+what she	46
+at last	46
+# dear	46
+# ah	46
+all her	46
+to go	46
+if she	46
+# your	45
+been a	45
+been so	45
+and all	45
+can be	45
+when he	45
+he did	45
+# nor	44
+of your	44
+from her	44
+# where	44
+the rest	44
+no more	44
+# nothing	44
+# will	44
+to speak	44
+i believe	44
+seemed to	44
+and in	43
+and to	43
+too much	43
+no doubt	43
+# quite	43
+to take	43
+the room	43
+the time	43
+by her	43
+had never	43
+as if	43
+was quite	43
+you do	43
+# could	43
+and with	42
+not a	42
+of them	42
+of harriet	42
+of such	42
+the young	42
+well as	42
+# only	42
+she will	42
+of what	42
+# before	42
+# dixon	42
+to emma	41
+about it	41
+what is	41
+to miss	41
+the evening	41
+her friend	41
+as they	40
+you may	40
+to feel	40
+# let	40
+it all	40
+as it	40
+she has	40
+# why	40
+of every	40
+the best	40
+not been	40
+# an	40
+when she	40
+that mr	40
+of course	39
+for his	39
+her in	39
+# did	39
+deal of	39
+she might	39
+at randalls	39
+than she	39
+be sure	39
+must not	39
+we shall	39
+the idea	39
+and if	39
+at home	39
+said mr	38
+he might	38
+were to	38
+he should	38
+a moment	38
+what you	38
+not at	38
+for him	38
+# never	38
+at her	38
+to any	38
+i thought	38
+used to	38
+was all	38
+i suppose	38
+think it	38
+than i	38
+# till	37
+# because	37
+# have	37
+# just	37
+to hartfield	37
+it might	37
+you think	37
+half a	37
+of its	37
+# then	37
+not the	37
+have done	37
+to marry	37
+# here	37
+had the	36
+doubt of	36
+that was	36
+is no	36
+and of	36
+and harriet	36
+emma had	36
+of miss	36
+when i	36
+you had	36
+my mother	35
+some time	35
+she thought	35
+thank you	35
+know what	35
+and though	35
+part of	35
+for it	35
+are not	35
+have heard	35
+in general	35
+thought of	35
+in this	35
+and very	35
+with me	35
+you to	35
+weston was	35
+ready to	34
+with such	34
+and had	34
+to herself	34
+and every	34
+on his	34
+soon as	34
+about the	34
+thought it	34
+been the	34
+upon my	34
+be done	34
+# room	34
+what i	34
+have the	34
+what a	34
+say that	33
+fond of	33
+for any	33
+the next	33
+and there	33
+dear emma	33
+at this	33
+be in	33
+is to	33
+as soon	33
+that they	33
+in their	33
+with them	33
+in my	33
+but as	33
+we have	33
+# day	32
+state of	32
+his wife	32
+the party	32
+shall be	32
+a woman	32
+degree of	32
+the day	32
+glad to	32
+the carriage	32
+am not	32
+to my	32
+want of	32
+at first	32
+i wish	32
+be no	32
+what was	32
+have had	32
+a young	31
+# bates	31
+with mr	31
+if it	31
+for you	31
+harriet smith	31
+this was	31
+robert martin	31
+nothing to	31
+that there	31
+in such	31
+might not	31
+and now	31
+he will	31
+we are	31
+need not	31
+was now	31
+of an	31
+at once	31
+to it	31
+# must	31
+maple grove	31
+so well	31
+at present	31
+her with	31
+my father	31
+for mr	31
+with you	31
+you and	30
+love with	30
+elton was	30
+her mind	30
+my word	30
+by any	30
+# are	30
+she should	30
+made her	30
+tell you	30
+for me	30
+so many	29
+as possible	29
+am very	29
+when the	29
+came to	29
+and how	29
+have you	29
+a friend	29
+to know	29
+were not	29
+not do	29
+the least	29
+the only	29
+harriet was	29
+which i	29
+to look	29
+very true	29
+he must	29
+or two	28
+and yet	28
+colonel campbell	28
+wanted to	28
+# even	28
+know that	28
+be at	28
+sorry to	28
+a word	28
+not you	28
+but not	28
+very little	28
+to them	28
+in one	28
+which was	28
+any other	28
+# good	28
+much to	28
+let me	27
+acquainted with	27
+not quite	27
+the door	27
+come to	27
+how to	27
+thing to	27
+after a	27
+was too	27
+so long	27
+the greatest	27
+are you	27
+# nobody	27
+to get	27
+time to	27
+opinion of	27
+much as	27
+# therefore	27
+cried emma	27
+but there	27
+thinking of	27
+wish to	27
+this morning	27
+see him	27
+much more	27
+with his	27
+its being	27
+# morrow	27
+them to	27
+are very	27
+in all	26
+she felt	26
+of mind	26
+much of	26
+she knew	26
+in every	26
+# except	26
+in short	26
+by a	26
+the children	26
+of you	26
+when they	26
+but a	26
+at a	26
+that her	26
+of some	26
+a sort	26
+but that	26
+of having	26
+enough for	26
+likely to	26
+how much	26
+has not	26
+rest of	26
+it could	26
+# papa	26
+# may	25
+and not	25
+to talk	25
+the campbells	25
+the pleasure	25
+not in	25
+# some	25
+be more	25
+# their	25
+# pray	25
+know how	25
+# certainly	25
+shall not	25
+at any	25
+he said	25
+those who	25
+the present	25
+not like	25
+the crown	25
+to find	25
+had done	25
+she saw	25
+just as	25
+# much	25
+a letter	25
+the place	25
+her that	25
+that emma	25
+and at	24
+spite of	24
+# like	24
+nothing of	24
+they will	24
+# can	24
+for i	24
+but mr	24
+and they	24
+young woman	24
+want to	24
+was obliged	24
+was at	24
+the last	24
+all my	24
+which had	24
+to harriet	24
+or other	24
+# thank	24
+instead of	24
+meant to	24
+them all	24
+was always	24
+his being	24
+and jane	24
+it in	24
+# looking	24
+in spite	24
+had she	23
+better than	23
+see her	23
+been in	23
+# might	23
+was most	23
+for harriet	23
+and therefore	23
+did you	23
+but still	23
+happy to	23
+each other	23
+i always	23
+s being	23
+upon the	23
+a better	23
+the others	23
+there were	23
+only to	23
+# whether	23
+that if	23
+began to	23
+we were	23
+far as	23
+but if	23
+you should	23
+he came	23
+they must	23
+they would	23
+# more	23
+young lady	23
+body else	23
+# whose	23
+had better	23
+it may	23
+your own	23
+and you	23
+it a	23
+dear miss	23
+and for	22
+more to	22
+all to	22
+this moment	22
+weston had	22
+with us	22
+afraid of	22
+thing that	22
+you see	22
+care of	22
+nothing but	22
+there will	22
+him in	22
+it seemed	22
+of highbury	22
+she found	22
+in it	22
+her at	22
+thing in	22
+my own	22
+but in	22
+speak of	22
+have thought	22
+the way	22
+# has	22
+be as	22
+how could	22
+quite a	22
+it has	22
+of those	22
+end of	22
+by mr	22
+when you	22
+that could	22
+had ever	22
+like to	22
+have made	21
+very bad	21
+any of	21
+to highbury	21
+have seen	21
+good deal	21
+be able	21
+not so	21
+# be	21
+into a	21
+which he	21
+his daughter	21
+being a	21
+sure i	21
+# especially	21
+feel that	21
+what he	21
+the letter	21
+in highbury	21
+were all	21
+talked of	21
+very happy	21
+# these	21
+i may	21
+made a	21
+depend upon	21
+in that	21
+the case	21
+but for	21
+you can	21
+before the	21
+her husband	21
+he does	20
+sure you	20
+to understand	20
+before she	20
+i see	20
+to pay	20
+come in	20
+of our	20
+not but	20
+was his	20
+half an	20
+a day	20
+all in	20
+think you	20
+by his	20
+is an	20
+sense of	20
+the sort	20
+that harriet	20
+with any	20
+few minutes	20
+so little	20
+an excellent	20
+the eltons	20
+be an	20
+there are	20
+than a	20
+from any	20
+being in	20
+reason to	20
+some of	20
+we must	20
+you could	20
+for my	20
+as her	20
+very great	20
+think i	20
+the more	20
+and only	20
+through the	20
+to all	20
+is quite	20
+point of	20
+seem to	20
+# too	20
+at mrs	20
+when it	20
+the smallest	20
+on a	19
+cannot be	19
+it did	19
+much in	19
+pleased with	19
+any one	19
+# most	19
+upon it	19
+to join	19
+had seen	19
+there would	19
+way to	19
+for ever	19
+danger of	19
+was an	19
+told me	19
+and who	19
+he looked	19
+and on	19
+her being	19
+am afraid	19
+harriet had	19
+very soon	19
+of jane	19
+and said	19
+whom she	19
+were the	19
+so far	19
+# t	19
+than he	19
+felt that	19
+a thing	19
+the weather	19
+that a	19
+to meet	19
+never had	19
+never been	19
+her from	19
+i remember	19
+how it	19
+to whom	19
+are so	19
+equal to	19
+as far	19
+be quite	19
+i really	19
+in london	19
+though she	19
+only a	19
+but emma	19
+emma felt	19
+she does	19
+i saw	18
+take care	18
+a different	18
+ashamed of	18
+he were	18
+may not	18
+than to	18
+# should	18
+as for	18
+before her	18
+to tell	18
+power of	18
+and after	18
+am quite	18
+have never	18
+regard for	18
+talk of	18
+so i	18
+# made	18
+of pleasure	18
+her as	18
+you all	18
+very kind	18
+go to	18
+the truth	18
+soon be	18
+with mrs	18
+box hill	18
+not want	18
+which must	18
+and my	18
+but when	18
+may have	18
+all this	18
+miss hawkins	18
+will soon	18
+pleasure of	18
+without the	18
+his son	18
+and by	18
+a bad	18
+than any	17
+time for	17
+a degree	17
+how she	17
+without a	17
+sure that	17
+it as	17
+time of	17
+to every	17
+which her	17
+him at	17
+the name	17
+or a	17
+a fine	17
+young ladies	17
+mean to	17
+attached to	17
+full of	17
+her the	17
+like a	17
+the worst	17
+# something	17
+# under	17
+that we	17
+look at	17
+would rather	17
+to leave	17
+would never	17
+and could	17
+their own	17
+course of	17
+from mr	17
+# having	17
+herself to	17
+hope you	17
+but one	17
+sure of	17
+from his	17
+# whenever	17
+an idea	17
+that mrs	17
+who have	17
+up to	17
+how very	17
+a more	17
+but his	17
+much better	17
+or any	17
+to their	17
+weston and	17
+that any	17
+very pretty	17
+woodhouse was	17
+it should	17
+he seemed	17
+he may	17
+the better	17
+said mrs	17
+a state	17
+over the	17
+on that	16
+# am	16
+a smile	16
+like it	16
+take the	16
+not allow	16
+for your	16
+you for	16
+we had	16
+between them	16
+the child	16
+it were	16
+you please	16
+have her	16
+replied emma	16
+her eyes	16
+in fact	16
+to sit	16
+be to	16
+be allowed	16
+and be	16
+told her	16
+is my	16
+that his	16
+all his	16
+it possible	16
+the morning	16
+she ought	16
+every day	16
+to ask	16
+you mean	16
+of frank	16
+no longer	16
+not very	16
+was more	16
+# seemed	16
+beyond the	16
+about her	16
+at that	16
+is in	16
+there had	16
+give me	16
+in any	16
+last night	16
+knightley and	16
+here is	16
+a gentleman	16
+the matter	16
+but now	16
+thing of	16
+knowledge of	16
+was soon	16
+a look	16
+while she	16
+# twenty	16
+the moment	16
+to put	16
+not mean	16
+make the	16
+that would	16
+she wanted	16
+was going	16
+he can	16
+her so	16
+to stay	16
+the right	16
+made him	16
+an old	16
+her very	16
+tell me	16
+now i	16
+were very	16
+his life	16
+to shew	16
+from a	16
+if the	16
+to randalls	16
+give you	16
+which is	15
+knightley was	15
+heard of	15
+but her	15
+# being	15
+see you	15
+appear to	15
+never have	15
+the coles	15
+# still	15
+the ball	15
+she hoped	15
+poor miss	15
+who could	15
+a girl	15
+you might	15
+was as	15
+the table	15
+me a	15
+far from	15
+your friend	15
+# thought	15
+not being	15
+the little	15
+in your	15
+make her	15
+# come	15
+of us	15
+who was	15
+said i	15
+speaking of	15
+at weymouth	15
+was still	15
+no other	15
+been at	15
+had given	15
+not help	15
+be all	15
+not that	15
+is as	15
+they could	15
+the visit	15
+speak to	15
+and what	15
+# neither	15
+he replied	15
+# almost	15
+which the	15
+you like	15
+be of	15
+sure it	15
+him a	15
+must go	15
+if not	15
+wish you	15
+soon afterwards	15
+from him	15
+the family	15
+dear jane	15
+was rather	15
+appearance of	15
+to call	15
+will have	15
+that in	15
+any such	15
+on this	15
+# rather	15
+# always	15
+that jane	15
+she looked	15
+# yet	15
+# smiling	15
+poor harriet	15
+she were	15
+while he	15
+in some	15
+on my	15
+the good	15
+do it	15
+# any	15
+to walk	15
+to keep	15
+bear to	15
+to what	15
+among the	15
+let us	15
+it be	15
+it ought	15
+# aye	15
+by no	15
+a time	15
+just what	15
+is nothing	15
+it does	15
+with it	15
+with great	14
+for mrs	14
+believe it	14
+the churchills	14
+for some	14
+of hartfield	14
+was really	14
+made the	14
+could never	14
+you say	14
+think she	14
+in which	14
+told you	14
+the point	14
+could do	14
+not bear	14
+# don	14
+you did	14
+or to	14
+father and	14
+right to	14
+talking of	14
+been able	14
+without any	14
+the instrument	14
+there could	14
+he ought	14
+a pretty	14
+him for	14
+the evil	14
+are all	14
+# whatever	14
+change of	14
+that every	14
+# instead	14
+shall have	14
+much the	14
+seeing him	14
+made up	14
+very likely	14
+her face	14
+a point	14
+was sure	14
+attention to	14
+# whom	14
+# depend	14
+# suckling	14
+the end	14
+to jane	14
+make it	14
+the abbey	14
+beginning to	14
+but they	14
+they have	14
+so kind	14
+was only	14
+this time	14
+had taken	14
+we do	14
+without being	14
+to himself	14
+be satisfied	14
+to donwell	14
+quarter of	14
+about him	14
+were in	14
+there being	14
+is always	14
+she heard	14
+she believed	14
+when mr	14
+she came	14
+not it	14
+to believe	14
+what do	14
+her and	14
+s side	14
+ever since	14
+that miss	14
+sure she	14
+it so	14
+with so	14
+if they	14
+such as	14
+had had	14
+proof of	14
+s account	14
+as mrs	14
+before he	14
+though the	14
+but what	14
+how do	14
+been used	14
+a week	14
+satisfied with	14
+exactly the	14
+the power	14
+him and	14
+been very	14
+to please	13
+on harriet	13
+came in	13
+the match	13
+to such	13
+in mr	13
+and we	13
+was just	13
+william larkins	13
+i said	13
+this very	13
+churchill had	13
+the great	13
+a doubt	13
+the man	13
+great pleasure	13
+is it	13
+them in	13
+her aunt	13
+had made	13
+allowed to	13
+one cannot	13
+you cannot	13
+# continued	13
+as his	13
+so good	13
+her a	13
+very often	13
+miss nash	13
+give up	13
+the question	13
+had passed	13
+for them	13
+who would	13
+i mean	13
+quite as	13
+to spend	13
+cried mr	13
+shall never	13
+dear sir	13
+the happiness	13
+the lady	13
+that had	13
+give her	13
+my brother	13
+met with	13
+who is	13
+what it	13
+forward to	13
+but no	13
+up with	13
+his coming	13
+i knew	13
+being so	13
+trying to	13
+believe i	13
+very few	13
+again to	13
+had always	13
+who were	13
+quite the	13
+he began	13
+to your	13
+is such	13
+the utmost	13
+will do	13
+and good	13
+the usual	13
+they might	13
+but with	13
+not say	13
+little more	13
+air of	13
+to read	13
+it very	13
+made it	13
+not make	13
+the hope	13
+in town	13
+# besides	13
+as mr	13
+her hand	13
+coming to	13
+# excepting	13
+had to	13
+would do	13
+only one	13
+of spirits	13
+next day	13
+if we	13
+are a	13
+for miss	13
+in time	13
+# isabella	13
+necessary to	13
+for she	13
+# our	13
+with an	13
+make a	13
+on such	13
+given her	13
+the difference	13
+of life	13
+man of	13
+not wish	13
+we should	13
+i understand	13
+which made	12
+# gave	12
+and sister	12
+though it	12
+but then	12
+the event	12
+wanting to	12
+soon after	12
+good sense	12
+is impossible	12
+i ever	12
+that sort	12
+little while	12
+think her	12
+to london	12
+endeavour to	12
+object of	12
+upon her	12
+whom he	12
+the vicarage	12
+never saw	12
+a quarter	12
+shall i	12
+have always	12
+be said	12
+something of	12
+hour of	12
+very glad	12
+# hearted	12
+to suppose	12
+understand the	12
+know you	12
+me in	12
+then i	12
+between the	12
+miss campbell	12
+a much	12
+as any	12
+more of	12
+have him	12
+we will	12
+she said	12
+of no	12
+long as	12
+for herself	12
+# many	12
+to bring	12
+indeed i	12
+a situation	12
+away from	12
+should like	12
+elton is	12
+had already	12
+was one	12
+found her	12
+are to	12
+a hurry	12
+disposed to	12
+a wife	12
+resolved to	12
+attachment to	12
+there must	12
+very sure	12
+and having	12
+# turning	12
+little friend	12
+very odd	12
+could he	12
+their being	12
+what had	12
+towards her	12
+was such	12
+` i	12
+the pianoforte	12
+brother and	12
+not let	12
+being the	12
+s mind	12
+a way	12
+had just	12
+tried to	12
+no means	12
+not come	12
+happiness of	12
+sight of	12
+name of	12
+to that	12
+be happy	12
+of something	12
+to begin	12
+me that	12
+on them	12
+# since	12
+for having	12
+thing else	12
+# making	12
+not give	12
+# nay	12
+after all	12
+on one	12
+and such	12
+though he	12
+aware of	12
+account of	12
+be always	12
+s feelings	12
+wish of	12
+and see	12
+with harriet	12
+them both	12
+which could	12
+something to	12
+was gone	12
+and must	12
+s coming	12
+no one	12
+i want	12
+her heart	12
+determined to	12
+had gone	12
+not one	12
+# two	12
+superior to	12
+the martins	12
+have any	12
+went to	12
+never to	12
+his side	12
+much obliged	12
+from that	12
+looked at	12
+which emma	12
+the sight	12
+one morning	12
+saw her	12
+even to	12
+any time	12
+as this	12
+matter of	12
+# true	12
+bates and	12
+# another	12
+in vain	12
+few days	12
+not speak	12
+a family	12
+is all	12
+or three	12
+the drawing	12
+sat down	12
+to another	12
+though i	12
+to myself	12
+nothing else	12
+# laughing	12
+up the	12
+emma found	12
+# law	12
+a minute	12
+not she	12
+her side	12
+and nothing	12
+not even	12
+of both	12
+the advantage	12
+best of	12
+belong to	12
+has a	12
+he thought	12
+round the	12
+not believe	11
+who can	11
+left her	11
+by this	11
+he told	11
+he saw	11
+you need	11
+them the	11
+to this	11
+or even	11
+not seem	11
+one is	11
+not see	11
+could wish	11
+it into	11
+could hardly	11
+think the	11
+think him	11
+of emma	11
+be married	11
+a mile	11
+it for	11
+# campbell	11
+of hearing	11
+put it	11
+thing for	11
+i ought	11
+his feelings	11
+never could	11
+to send	11
+use of	11
+poor isabella	11
+whom i	11
+set off	11
+nothing could	11
+never seen	11
+my opinion	11
+to one	11
+she never	11
+but to	11
+hope of	11
+by harriet	11
+do any	11
+of seeing	11
+nothing more	11
+i might	11
+have it	11
+go and	11
+very obliging	11
+it seems	11
+had received	11
+that all	11
+with some	11
+# e	11
+have nothing	11
+her thoughts	11
+is too	11
+emma would	11
+at highbury	11
+than usual	11
+five minutes	11
+because she	11
+hear the	11
+and no	11
+pleasure in	11
+for though	11
+the change	11
+gone to	11
+two or	11
+either of	11
+of so	11
+her brother	11
+was her	11
+like her	11
+i like	11
+known to	11
+and here	11
+and say	11
+this letter	11
+her more	11
+# shall	11
+was with	11
+for their	11
+the purpose	11
+are too	11
+you ever	11
+and while	11
+churchill was	11
+none of	11
+but this	11
+the common	11
+who are	11
+with what	11
+read it	11
+her first	11
+# ma	11
+visit to	11
+that will	11
+a long	11
+i felt	11
+most happy	11
+and this	11
+no idea	11
+her attention	11
+a thousand	11
+can have	11
+of good	11
+judge of	11
+you that	11
+think so	11
+which they	11
+whether she	11
+found it	11
+way of	11
+the person	11
+felt the	11
+for every	11
+i say	11
+# _she_	11
+very sorry	11
+kind as	11
+# those	11
+knightley had	11
+# probably	11
+that moment	11
+as usual	11
+said harriet	11
+him as	11
+with no	11
+my friend	11
+with miss	11
+a small	11
+a delightful	11
+his brother	11
+poor mr	11
+was ready	11
+piece of	11
+as emma	11
+the poor	11
+# about	11
+see that	11
+i wonder	11
+me the	11
+only of	11
+during the	11
+brunswick square	11
+of me	11
+as ever	11
+a large	11
+on which	11
+not much	11
+answer for	11
+for emma	11
+the country	11
+great a	11
+and found	11
+emma and	11
+the acquaintance	11
+what would	11
+or not	11
+are quite	11
+manner of	11
+him with	11
+elton had	11
+your father	11
+wished to	11
+were so	11
+# time	11
+# does	11
+willing to	11
+till the	11
+his manners	11
+not often	11
+a child	11
+up his	11
+a certain	11
+-------------------------
+grove | maple	0.968750
+of | spite	0.960000
+martin | robert	0.939394
+to | able	0.917808
+square | brunswick	0.916667
+you | assure	0.866667
+to | obliged	0.857143
+of | instead	0.857143
+you | thank	0.853659
+say | dare	0.850000
+of | fond	0.825000
+to | endeavour	0.800000
+with | acquainted	0.794118
+of | piece	0.785714
+to | willing	0.785714
+upon | depend	0.777778
+to | ought	0.750000
+hill | box	0.750000
+to | belong	0.750000
+to | used	0.745098
+of | sort	0.743363
+churchill | frank	0.722488
+not | need	0.720930
+campbell | colonel	0.717949
+to | attached	0.653846
+knightley | john	0.637363
+to | glad	0.627451
+of | ashamed	0.620690
+the | during	0.611111
+of | danger	0.593750
+of | knowledge	0.592593
+of | proof	0.583333
+larkins | william	0.565217
+of | state	0.561404
+of | degree	0.561404
+to | likely	0.553191
+to | disposed	0.545455
+to | meant	0.545455
+to | trying	0.541667
+of | quarter	0.538462
+to | seem	0.526316
+not | did	0.518414
+of | idea	0.514851
+of | rest	0.509804
+to | ready	0.507463
+of | part	0.492958
+other | each	0.489362
+not | does	0.488550
+of | appearance	0.483871
+to | going	0.479339
+to | reason	0.476190
+to | sorry	0.451613
+of | end	0.448980
+to | tried	0.444444
+of | sight	0.444444
+of | aware	0.444444
+of | thinking	0.442623
+man | young	0.435233
+of | power	0.428571
+of | care	0.423077
+of | deal	0.419355
+to | resolved	0.413793
+for | regard	0.409091
+a | such	0.408163
+to | enough	0.407692
+of | judge	0.407407
+to | appear	0.405405
+with | pleased	0.395833
+you | tell	0.384615
+of | point	0.384615
+of | opinion	0.375000
+to | wanted	0.368421
+fairfax | jane	0.367550
+of | none	0.366667
+not | do	0.366615
+of | doubt	0.363636
+of | matter	0.363636
+of | full	0.361702
+to | began	0.353846
+to | wanting	0.352941
+of | want	0.351648
+to | forward	0.351351
+to | necessary	0.351351
+of | sense	0.350877
+to | beginning	0.341463
+of | afraid	0.333333
+with | met	0.333333
+not | could	0.331742
+emma | cried	0.329268
+be | may	0.328829
+to | equal	0.327586
+to | determined	0.324324
+be | might	0.324159
+as | far	0.323944
+the | through	0.322581
+of | out	0.319249
+of | speaking	0.319149
+be | must	0.318662
+to | allowed	0.317073
+down | sat	0.315789
+of | talked	0.313433
+a | half	0.310924
+to | seemed	0.309859
+of | object	0.300000
+the | round	0.300000
+me | let	0.296703
+of | talk	0.295082
+the | into	0.292683
+the | beyond	0.290909
+thing | every	0.288991
+the | among	0.288462
+woodhouse | miss	0.288333
+to | mean	0.283333
+to | bear	0.283019
+of | air	0.282609
+of | use	0.282051
+be | will	0.280210
+of | course	0.274194
+him | seeing	0.269231
+with | satisfied	0.264151
+to | want	0.263736
+be | would	0.261876
+who | those	0.260417
+of | talking	0.259259
+she | whom	0.256757
+sure | am	0.255869
+minutes | five	0.255814
+to | went	0.255319
+was | there	0.254545
+with | love	0.254237
+thing | any	0.251908
+body | every	0.250000
+to | attachment	0.244898
+to | came	0.241667
+deal | great	0.241509
+me | told	0.240506
+the | exactly	0.237288
+to | attention	0.233333
+of | change	0.225806
+to | wished	0.224490
+be | should	0.221622
+of | speak	0.220000
+being | its	0.219512
+been | has	0.219124
+that | feel	0.218750
+the | on	0.216450
+them | between	0.216216
+and | brother	0.214286
+my | upon	0.212500
+from | far	0.211268
+of | name	0.210526
+fairfax | miss	0.208333
+it | read	0.207547
+me | tell	0.205128
+she | because	0.203704
+the | in	0.203289
+day | next	0.203125
+her | told	0.202532
+dear | my	0.200274
+emma | replied	0.200000
+to | superior	0.200000
+of | account	0.200000
+for | enough	0.200000
+to | wish	0.198529
+the | all	0.197400
+were | they	0.190388
+been | had	0.189538
+bates | miss	0.188333
+minutes | few	0.186916
+been | have	0.183952
+to | happy	0.182540
+of | think	0.182292
+is | there	0.181818
+to | known	0.180328
+her | towards	0.179104
+not | would	0.179050
+the | by	0.178322
+you | told	0.177215
+you | if	0.176955
+was | it	0.175563
+the | understand	0.173913
+the | from	0.173675
+off | set	0.171875
+than | more	0.170940
+it | put	0.169231
+of | either	0.169231
+she | whether	0.169231
+for | answer	0.169231
+much | too	0.168627
+an | half	0.168067
+a | after	0.166667
+that | felt	0.166667
+her | given	0.166667
+had | who	0.166102
+have | would	0.165652
+not | should	0.164865
+us | let	0.164835
+it | about	0.164000
+he | whom	0.162162
+the | between	0.162162
+her | left	0.159420
+have | might	0.159021
+mr | cried	0.158537
+be | can	0.157895
+to | come	0.156069
+of | happiness	0.155844
+of | pleasure	0.155172
+of | thought	0.154185
+as | soon	0.151111
+as | just	0.150602
+to | right	0.150538
+care | take	0.150000
+to | speak	0.150000
+her | made	0.150000
+it | thought	0.149780
+i | whom	0.148649
+be | shall	0.146789
+of | manner	0.144737
+to | coming	0.144444
+he | if	0.144033
+the | upon	0.143750
+have | should	0.143243
+of | hour	0.142857
+he | said	0.142268
+had | she	0.141820
+of | one	0.141280
+was | she	0.140111
+of | best	0.139535
+at | look	0.139344
+not | will	0.138354
+emma | dear	0.136364
+the | about	0.136000
+it | believe	0.135922
+to | gone	0.135802
+to | go	0.135338
+the | take	0.133333
+night | last	0.133333
+time | some	0.133080
+be | cannot	0.132867
+had | he	0.132817
+as | kind	0.132530
+than | better	0.132184
+at | looked	0.130435
+the | of	0.130242
+her | found	0.129032
+an | such	0.128571
+a | into	0.128049
+she | said	0.127835
+to | visit	0.126437
+i | believe	0.126214
+the | for	0.125371
+woman | young	0.124352
+am | i	0.124253
+of | heard	0.123967
+he | when	0.123626
+was | he	0.122856
+i | `	0.122449
+to | way	0.121795
+emma | said	0.121649
+the | over	0.121429
+him | see	0.121076
+to | nothing	0.120623
+she | while	0.119403
+lady | young	0.119171
+body | any	0.119084
+it | upon	0.118750
+else | body	0.118557
+she | which	0.118492
+it | found	0.118280
+is | it	0.118229
+you | hope	0.118056
+have | must	0.117958
+be | to	0.115840
+in | come	0.115607
+not | shall	0.114679
+and | #	0.113458
+the | at	0.113372
+all | at	0.113372
+be | could	0.113365
+i | if	0.113169
+days | few	0.112150
+he | while	0.111940
+shall | we	0.111429
+you | wish	0.110294
+her | saw	0.110092
+she | when	0.109890
+miss | poor	0.109489
+harriet | poor	0.109489
+to | like	0.109453
+you | do	0.109204
+the | hear	0.108911
+in | came	0.108333
+are | they	0.107209
+i | but	0.106796
+the | till	0.106796
+she | though	0.106742
+is | this	0.106262
+that | say	0.106109
+of | something	0.105263
+to | something	0.105263
+a | made	0.105000
+the | make	0.104575
+as | well	0.104478
+not | has	0.103586
+what | know	0.103550
+is | here	0.103226
+hour | an	0.103226
+her | see	0.103139
+the | with	0.102627
+i | sure	0.102439
+she | that	0.101826
+much | so	0.101538
+to | as	0.100905
+he | that	0.100166
+a | with	0.100164
+me | give	0.100000
+you | give	0.100000
+not | is	0.099919
+it | think	0.098958
+i | when	0.098901
+her | make	0.098039
+you | sure	0.097561
+smith | miss	0.096667
+the | felt	0.096491
+to | time	0.096429
+a | is	0.095085
+miss | dear	0.095041
+in | pleasure	0.094828
+not | might	0.094801
+she | if	0.094650
+have | we	0.094286
+she | than	0.093750
+of | nothing	0.093385
+to | him	0.092105
+it | make	0.091503
+i | than	0.091346
+her | for	0.091246
+had | they	0.090573
+what | just	0.090361
+to | even	0.090226
+to | up	0.089005
+are | we	0.088571
+have | i	0.088393
+of | wish	0.088235
+very | so	0.088205
+ladies | young	0.088083
+from | away	0.086331
+that | all	0.086288
+she | what	0.085661
+but | nothing	0.085603
+her | with	0.085386
+a | make	0.084967
+a | like	0.084577
+the | without	0.083721
+the | before	0.083665
+much | very	0.083126
+that | sure	0.082927
+of | sure	0.082927
+that | know	0.082840
+and | go	0.082707
+a | in	0.082229
+as | long	0.081633
+up | give	0.081250
+her | give	0.081250
+not | may	0.081081
+have | may	0.081081
+and | bates	0.080537
+her | from	0.080439
+isabella | poor	0.080292
+mr | poor	0.080292
+to | me	0.080139
+taylor | miss	0.080000
+be | soon	0.080000
+him | made	0.080000
+she | before	0.079681
+the | when	0.079670
+it | like	0.079602
+was | weston	0.079365
+a | without	0.079070
+the | though	0.078652
+mr | said	0.078351
+a | quite	0.077739
+was | elton	0.077720
+not | are	0.076754
+of | hope	0.076389
+is | what	0.076350
+of | some	0.076046
+her | by	0.075175
+not | am	0.075117
+her | upon	0.075000
+all | after	0.074074
+how | know	0.073964
+was | emma	0.073903
+are | you	0.073195
+it | sure	0.073171
+could | she	0.073046
+to | how	0.072581
+since | ever	0.072165
+her | before	0.071713
+they | when	0.071429
+she | as	0.070981
+you | what	0.070764
+i | then	0.070588
+of | way	0.070513
+could | emma	0.070439
+the | made	0.070000
+up | made	0.070000
+much | how	0.069892
+i | that	0.069729
+her | on	0.069264
+own | his	0.068935
+not | had	0.068923
+not | must	0.068662
+not | was	0.068362
+she | sure	0.068293
+be | not	0.068192
+very | am	0.068075
+with | up	0.068063
+to | thing	0.067669
+it | though	0.067416
+i | though	0.067416
+he | though	0.067416
+and | father	0.067308
+you | see	0.067265
+to | only	0.067251
+afterwards | soon	0.066667
+were | we	0.065714
+you | did	0.065156
+any | without	0.065116
+being | without	0.065116
+it | made	0.065000
+hartfield | at	0.064922
+a | for	0.064540
+have | shall	0.064220
+her | about	0.064000
+it | if	0.063786
+i | what	0.063315
+a | what	0.063315
+very | a	0.063259
+to | were	0.063228
+own | your	0.063014
+the | up	0.062827
+it | but	0.062413
+to | them	0.062356
+jane | dear	0.061983
+i | #	0.061721
+or | two	0.061453
+a | was	0.061276
+smith | harriet	0.061144
+her | of	0.061044
+to | herself	0.060714
+for | time	0.060714
+of | time	0.060714
+well | very	0.060682
+you | when	0.060440
+never | shall	0.059633
+was | what	0.059590
+more | no	0.059219
+a | been	0.059211
+so | been	0.059211
+you | are	0.059211
+very | are	0.059211
+could | how	0.059140
+i | indeed	0.059113
+to | again	0.059091
+was | this	0.058824
+deal | good	0.058496
+a | being	0.058496
+doubt | no	0.057873
+had | churchill	0.057778
+have | who	0.057627
+his | up	0.057592
+know | you	0.057547
+to | much	0.057495
+was | harriet	0.057199
+must | we	0.057143
+do | i	0.056936
+two | or	0.056566
+she | but	0.056172
+him | about	0.056000
+he | before	0.055777
+in | being	0.055710
+a | only	0.055556
+as | much	0.055441
+more | much	0.055441
+all | them	0.055427
+own | their	0.055375
+that | thing	0.055138
+in | thing	0.055138
+of | man	0.055085
+i | shall	0.055046
+it | when	0.054945
+have | could	0.054893
+her | like	0.054726
+her | all	0.054374
+was | woodhouse	0.054140
+own | her	0.053846
+sir | dear	0.053719
+is | he	0.053680
+a | be	0.053644
+of | much	0.053388
+after | soon	0.053333
+least | at	0.053295
+could | he	0.053127
+had | never	0.052925
+been | never	0.052925
+will | you	0.052499
+any | by	0.052448
+he | as	0.052192
+is | she	0.052114
+you | think	0.052083
+i | think	0.052083
+i | which	0.052065
+i | now	0.051613
+i | as	0.051496
+morning | this	0.051233
+it | how	0.051075
+could | who	0.050847
+was | who	0.050847
+was | which	0.050269
+had | weston	0.049887
+that | see	0.049327
+his | on	0.049062
+pleasure | great	0.049057
+was | churchill	0.048889
+other | or	0.048485
+the | is	0.048348
+not | were	0.048253
+would | it	0.048240
+a | than	0.048077
+mother | my	0.048011
+little | a	0.047923
+a | has	0.047809
+so | is	0.047542
+to | more	0.047009
+a | have	0.046934
+else | nothing	0.046693
+it | that	0.046486
+would | he	0.046486
+no | have	0.046177
+as | quite	0.045936
+the | quite	0.045936
+the | and	0.045742
+had | we	0.045714
+she | how	0.045699
+very | how	0.045699
+he | than	0.045673
+a | by	0.045455
+have | not	0.045306
+you | as	0.045233
+the | to	0.045229
+the | been	0.044737
+afraid | am	0.044601
+last | at	0.044574
+a | as	0.044537
+his | of	0.044501
+will | they	0.044362
+happy | most	0.044177
+would | who	0.044068
+is | who	0.044068
+were | who	0.044068
+have | you	0.043412
+her | in	0.043399
+to | than	0.043269
+great | a	0.043131
+had | which	0.043088
+excellent | an	0.043011
+could | nothing	0.042802
+more | nothing	0.042802
+other | any	0.042748
+very | is	0.042707
+all | with	0.042693
+father | my	0.042524
+must | they	0.042514
+would | they	0.042514
+quite | am	0.042254
+father | his	0.041885
+but | #	0.041884
+were | there	0.041818
+have | never	0.041783
+moment | this	0.041746
+so | are	0.041667
+had | emma	0.041570
+a | great	0.041509
+word | my	0.041152
+friend | your	0.041096
+and | knightley	0.041026
+any | than	0.040865
+would | she	0.040154
+of | thing	0.040100
+will | there	0.040000
+do | we	0.040000
+father | her	0.039676
+he | what	0.039106
+being | their	0.039088
+good | very	0.039069
+in | much	0.039014
+have | can	0.038596
+him | with	0.038588
+and | weston	0.038549
+was | knightley	0.038462
+mr | when	0.038462
+mr | by	0.038462
+to | her	0.038057
+one | only	0.038012
+not | have	0.037850
+know | not	0.037833
+randalls | at	0.037791
+home | at	0.037791
+shall | i	0.037748
+he | which	0.037702
+do | how	0.037634
+the | was	0.037516
+had | harriet	0.037475
+can | who	0.037288
+are | who	0.037288
+i | and	0.037166
+should | we	0.037143
+her | at	0.036822
+day | every	0.036697
+any | from	0.036563
+idea | an	0.036559
+she | think	0.036458
+are | there	0.036364
+so | being	0.036212
+more | little	0.036111
+the | but	0.036061
+you | that	0.035971
+her | to	0.035878
+you | know	0.035503
+have | to	0.035115
+a | had	0.035077
+mrs | said	0.035052
+his | by	0.034965
+all | were	0.034942
+the | be	0.034919
+was | i	0.034917
+better | much	0.034908
+well | as	0.034795
+it | of	0.034716
+a | of	0.034716
+you | but	0.034674
+to | not	0.034563
+would | there	0.034545
+no | had	0.034462
+old | an	0.034409
+a | or	0.034343
+any | or	0.034343
+is | that	0.034311
+should | i	0.034288
+will | we	0.034286
+his | in	0.034262
+very | was	0.034181
+much | as	0.034099
+he | but	0.033981
+she | #	0.033711
+had | i	0.033658
+think | i	0.033658
+sense | good	0.033426
+saw | never	0.033426
+the | being	0.033426
+to | never	0.033426
+the | as	0.033403
+to | was	0.033347
+while | little	0.033333
+friend | little	0.033333
+the | if	0.032922
+like | should	0.032432
+so | be	0.032389
+must | which	0.032316
+must | you	0.032307
+of | only	0.032164
+of | any	0.032061
+this | at	0.031977
+well | so	0.031795
+the | were	0.031614
+soon | will	0.031524
+her | think	0.031250
+is | elton	0.031088
+mr | from	0.031079
+his | from	0.031079
+first | at	0.031008
+the | that	0.030991
+i | said	0.030928
+not | if	0.030864
+s | #	0.030811
+all | are	0.030702
+could | never	0.030641
+seen | never	0.030641
+her | which	0.030521
+in | been	0.030263
+own | my	0.030178
+father | your	0.030137
+else | thing	0.030075
+once | at	0.030039
+present | at	0.030039
+in | them	0.030023
+hawkins | miss	0.030000
+if | as	0.029923
+many | so	0.029744
+very | be	0.029352
+a | from	0.029250
+had | there	0.029091
+no | is	0.029009
+one | any	0.029008
+in | him	0.028947
+his | for	0.028932
+they | if	0.028807
+the | much	0.028747
+me | with	0.028736
+cannot | one	0.028698
+the | think	0.028646
+him | think	0.028646
+so | think	0.028646
+as | such	0.028571
+a | are	0.028509
+had | elton	0.028497
+my | all	0.028369
+to | or	0.028283
+had | knightley	0.028205
+him | for	0.028190
+done | have	0.028009
+wife | his	0.027923
+such | with	0.027915
+love | in	0.027867
+they | as	0.027836
+it | as	0.027836
+could | they	0.027726
+both | them	0.027714
+long | so	0.027692
+has | he	0.027670
+for | thing	0.027569
+him | from	0.027422
+a | on	0.027417
+will | it	0.027284
+them | with	0.027094
+hope | i	0.027053
+is | which	0.026930
+the | which	0.026930
+would | you	0.026754
+we | if	0.026749
+could | i	0.026738
+can | i	0.026738
+very | were	0.026622
+to | is	0.026591
+time | this	0.026565
+heard | have	0.026495
+morning | one	0.026490
+never | had	0.026462
+usual | than	0.026442
+must | i	0.026423
+go | must	0.026408
+to | are	0.026316
+have | will	0.026270
+no | by	0.026224
+a | me	0.026132
+do | what	0.026071
+to | all	0.026005
+it | for	0.025964
+have | they	0.025878
+the | have	0.025738
+of | more	0.025641
+did | she	0.025630
+he | #	0.025506
+could | there	0.025455
+being | there	0.025455
+mr | with	0.025452
+you | with	0.025452
+the | them	0.025404
+think | not	0.025222
+a | at	0.025194
+so | was	0.025010
+did | he	0.024903
+were | you	0.024735
+very | this	0.024668
+obliged | much	0.024641
+being | s	0.024573
+to | it	0.024516
+any | for	0.024481
+must | she	0.024349
+is | one	0.024283
+three | or	0.024242
+any | at	0.024225
+had | have	0.024224
+it | what	0.024209
+too | are	0.024123
+quite | are	0.024123
+true | very	0.024106
+might | they	0.024030
+in | all	0.023641
+she | and	0.023484
+it | #	0.023430
+it | do	0.023401
+in | was	0.023343
+in | were	0.023295
+will | i	0.023278
+little | very	0.023275
+that | on	0.023088
+few | a	0.023003
+you | for	0.022997
+mr | for	0.022997
+soon | as	0.022965
+such | any	0.022901
+as | but	0.022885
+do | will	0.022767
+harriet | said	0.022680
+at | him	0.022368
+had | what	0.022346
+me | for	0.022255
+even | or	0.022222
+not | or	0.022222
+his | with	0.022167
+the | had	0.022154
+mr | that	0.022136
+the | #	0.022013
+you | have	0.021953
+felt | emma	0.021940
+that | from	0.021938
+must | there	0.021818
+do | you	0.021706
+nash | miss	0.021667
+this | on	0.021645
+my | on	0.021645
+made | which	0.021544
+could | which	0.021544
+emma | which	0.021544
+longer | no	0.021534
+this | all	0.021277
+say | to	0.021183
+might | he	0.021029
+should | he	0.021029
+being | his	0.020942
+in | me	0.020906
+that | me	0.020906
+letter | this	0.020873
+cannot | i	0.020761
+never | would	0.020706
+rather | would	0.020706
+must | it	0.020561
+little | so	0.020513
+mr | of	0.020503
+would | what	0.020484
+mrs | and	0.020216
+may | you	0.020192
+other | no	0.020188
+possible | as	0.020181
+no | was	0.020008
+campbell | miss	0.020000
+was | that	0.019923
+they | which	0.019749
+sure | be	0.019737
+at | been	0.019737
+a | him	0.019737
+a | not	0.019617
+would | i	0.019503
+far | so	0.019487
+not | but	0.019417
+mrs | at	0.019380
+had | it	0.019375
+this | by	0.019231
+harriet | by	0.019231
+good | a	0.019169
+the | me	0.019164
+see | to	0.019084
+same | the	0.019031
+very | the	0.019031
+his | all	0.018913
+harriet | on	0.018759
+such | on	0.018759
+there | but	0.018724
+been | not	0.018683
+think | you	0.018677
+know | i	0.018559
+i | so	0.018462
+able | been	0.018421
+for | him	0.018421
+used | been	0.018421
+and | him	0.018421
+very | been	0.018421
+daughter | his	0.018325
+time | any	0.018321
+so | were	0.018303
+they | that	0.018262
+man | a	0.018211
+had | you	0.018173
+that | #	0.018091
+us | with	0.018062
+that | but	0.018031
+a | but	0.018031
+will | she	0.017941
+never | i	0.017930
+quite | was	0.017924
+most | a	0.017891
+brother | my	0.017833
+i | for	0.017804
+at | not	0.017749
+to | you	0.017668
+you | #	0.017597
+bad | very	0.017456
+happy | very	0.017456
+them | on	0.017316
+one | on	0.017316
+the | not	0.017282
+done | be	0.017206
+any | do	0.017161
+there | that	0.017156
+will | he	0.017156
+a | and	0.017153
+has | she	0.017087
+harriet | for	0.017062
+being | of	0.017008
+dare | i	0.016986
+that | and	0.016949
+never | could	0.016706
+do | could	0.016706
+in | be	0.016700
+might | she	0.016660
+thought | have	0.016654
+mr | but	0.016644
+great | very	0.016625
+me | to	0.016603
+friend | her	0.016599
+mr | and	0.016541
+any | with	0.016420
+no | be	0.016194
+means | no	0.016151
+one | no	0.016151
+quite | is	0.016116
+an | is	0.016116
+must | he	0.016049
+general | in	0.015989
+this | in	0.015989
+still | but	0.015950
+if | but	0.015950
+made | have	0.015897
+seen | have	0.015897
+which | on	0.015873
+all | was	0.015840
+do | to	0.015840
+do | would	0.015834
+all | it	0.015817
+soon | very	0.015794
+in | her	0.015789
+son | his	0.015707
+he | and	0.015520
+it | and	0.015520
+that | at	0.015504
+done | had	0.015385
+in | but	0.015257
+and | you	0.015144
+did | i	0.015099
+opinion | my	0.015089
+friend | my	0.015089
+their | in	0.015075
+my | in	0.015075
+kind | very	0.014963
+side | s	0.014957
+account | s	0.014957
+thought | she	0.014951
+you | to	0.014885
+my | for	0.014837
+idea | no	0.014805
+assure | i	0.014785
+mrs | with	0.014778
+might | it	0.014630
+world | the	0.014610
+for | but	0.014563
+weymouth | at	0.014535
+as | him	0.014474
+with | him	0.014474
+her | that	0.014388
+kind | so	0.014359
+he | could	0.014320
+as | and	0.014294
+other | the	0.014225
+at | be	0.014170
+such | in	0.014162
+she | had	0.014154
+better | had	0.014154
+pretty | very	0.014131
+give | to	0.014122
+weston | #	0.014104
+ever | for	0.014095
+life | his	0.013962
+a | to	0.013931
+her | as	0.013918
+her | and	0.013886
+found | emma	0.013857
+first | the	0.013841
+believe | i	0.013841
+said | he	0.013835
+emma | that	0.013835
+all | of	0.013747
+their | of	0.013747
+miss | and	0.013682
+emma | and	0.013682
+never | have	0.013626
+do | not	0.013545
+ever | had	0.013538
+good | so	0.013333
+so | and	0.013273
+far | as	0.013222
+emma | but	0.013176
+think | to	0.013168
+wish | could	0.013126
+hardly | could	0.013126
+you | not	0.013078
+make | to	0.012977
+now | was	0.012922
+my | is	0.012893
+in | is	0.012893
+his | and	0.012865
+mind | s	0.012821
+feelings | s	0.012821
+coming | s	0.012821
+should | she	0.012815
+this | of	0.012815
+my | of	0.012815
+one | in	0.012791
+came | he	0.012728
+if | that	0.012728
+would | emma	0.012702
+and | emma	0.012702
+more | be	0.012652
+quite | not	0.012611
+elton | #	0.012588
+with | her	0.012551
+for | as	0.012526
+when | but	0.012483
+it | with	0.012315
+to | #	0.012259
+then | and	0.012252
+him | to	0.012214
+could | that	0.012175
+mind | her	0.012146
+moment | a	0.012141
+her | have	0.012112
+subject | the	0.012111
+whole | the	0.012111
+as | #	0.012094
+as | is	0.012087
+nothing | is	0.012087
+thought | i	0.011953
+suppose | i	0.011953
+all | in	0.011878
+every | in	0.011878
+short | in	0.011878
+your | for	0.011869
+one | but	0.011789
+his | but	0.011789
+seen | had	0.011692
+in | not	0.011677
+like | not	0.011677
+mrs | of	0.011650
+likely | very	0.011638
+should | you	0.011610
+mr | #	0.011567
+in | #	0.011534
+great | with	0.011494
+so | with	0.011494
+emma | #	0.011369
+coming | his	0.011344
+always | is	0.011281
+too | was	0.011255
+any | of	0.011184
+him | of	0.011184
+that | of	0.011184
+as | be	0.011134
+felt | she	0.011106
+knew | she	0.011106
+see | you	0.011106
+now | but	0.011096
+does | he	0.011068
+harriet | that	0.011068
+spite | in	0.010964
+most | the	0.010957
+mrs | to	0.010878
+when | and	0.010823
+often | very	0.010806
+few | very	0.010806
+his | to	0.010687
+saw | she	0.010679
+an | with	0.010673
+highbury | at	0.010659
+able | be	0.010628
+can | you	0.010601
+looked | he	0.010515
+a | that	0.010515
+it | is	0.010475
+such | is	0.010475
+side | his	0.010471
+was | and	0.010415
+a | #	0.010413
+knightley | #	0.010413
+her | but	0.010402
+mrs | for	0.010386
+some | for	0.010386
+could | it	0.010281
+your | of	0.010252
+said | #	0.010248
+woman | a	0.010224
+an | be	0.010121
+that | her	0.010121
+could | you	0.010096
+wish | i	0.010066
+it | in	0.010050
+obliged | was	0.010004
+at | was	0.010004
+always | was	0.010004
+glad | very	0.009975
+odd | very	0.009975
+sure | very	0.009975
+were | he	0.009961
+mr | to	0.009924
+young | a	0.009904
+harriet | with	0.009852
+so | not	0.009809
+them | of	0.009786
+harriet | of	0.009786
+such | of	0.009786
+what | of	0.009786
+mrs | as	0.009743
+come | to	0.009733
+hear | to	0.009733
+they | but	0.009709
+what | but	0.009709
+impossible | is	0.009670
+all | is	0.009670
+them | for	0.009644
+miss | for	0.009644
+she | for	0.009644
+quite | be	0.009615
+brother | his	0.009599
+feelings | his	0.009599
+manners | his	0.009599
+highbury | in	0.009593
+that | in	0.009593
+most | was	0.009587
+in | it	0.009490
+we | that	0.009408
+mrs | that	0.009408
+any | that	0.009408
+seemed | he	0.009408
+may | he	0.009408
+found | she	0.009398
+but | not	0.009341
+every | of	0.009320
+if | #	0.009293
+friend | a	0.009265
+given | had	0.009231
+house | the	0.009227
+two | the	0.009227
+all | and	0.009189
+obliging | very	0.009144
+sorry | very	0.009144
+may | it	0.009095
+a | it	0.009095
+course | of	0.009087
+all | you	0.009086
+always | have	0.009084
+him | have	0.009084
+any | have	0.009084
+his | as	0.009047
+mr | as	0.009047
+some | with	0.009031
+what | with	0.009031
+no | with	0.009031
+miss | with	0.009031
+for | #	0.009029
+no | but	0.009015
+with | but	0.009015
+word | a	0.008946
+at | her	0.008907
+herself | for	0.008902
+having | for	0.008902
+too | is	0.008864
+his | that	0.008854
+would | that	0.008854
+can | he	0.008854
+in | and	0.008781
+to | and	0.008781
+go | to	0.008779
+seemed | it	0.008699
+has | it	0.008699
+london | in	0.008680
+its | of	0.008621
+taken | had	0.008615
+had | had	0.008615
+with | and	0.008577
+my | #	0.008535
+husband | her	0.008502
+rest | the	0.008458
+want | not	0.008407
+speak | to	0.008397
+miss | of	0.008388
+any | as	0.008351
+this | as	0.008351
+his | was	0.008337
+it | have	0.008327
+nothing | have	0.008327
+then | but	0.008322
+sort | a	0.008307
+replied | he	0.008301
+in | that	0.008301
+jane | that	0.008301
+room | the	0.008266
+time | the	0.008266
+take | to	0.008206
+though | for	0.008160
+their | for	0.008160
+every | for	0.008160
+emma | for	0.008160
+does | she	0.008116
+to | be	0.008097
+allowed | be	0.008097
+for | you	0.008077
+please | you	0.008077
+mean | you	0.008077
+young | the	0.008074
+made | had	0.008000
+passed | had	0.008000
+always | had	0.008000
+to | had	0.008000
+letter | a	0.007987
+if | and	0.007964
+an | was	0.007920
+evening | the	0.007882
+emma | to	0.007824
+miss | to	0.007824
+with | #	0.007777
+there | #	0.007777
+which | #	0.007777
+ought | he	0.007748
+every | that	0.007748
+miss | that	0.007748
+being | her	0.007692
+from | her	0.007692
+best | the	0.007689
+usual | as	0.007655
+emma | as	0.007655
+ever | as	0.007655
+feel | to	0.007634
+to | but	0.007628
+this | but	0.007628
+all | be	0.007591
+of | be	0.007591
+might | you	0.007572
+like | you	0.007572
+did | it	0.007513
+idea | the	0.007497
+allow | not	0.007473
+very | not	0.007473
+mean | not	0.007473
+or | #	0.007414
+already | had	0.007385
+just | had	0.007385
+gone | had	0.007385
+of | and	0.007351
+harriet | and	0.007351
+better | a	0.007348
+fact | in	0.007309
+any | in	0.007309
+as | her	0.007287
+any | to	0.007252
+always | i	0.007235
+an | of	0.007223
+was | #	0.007217
+had | that	0.007194
+began | he	0.007194
+though | and	0.007147
+very | and	0.007147
+they | #	0.007118
+satisfied | be	0.007085
+say | you	0.007067
+did | you	0.007067
+hartfield | to	0.007061
+marry | to	0.007061
+being | not	0.007006
+that | not	0.007006
+help | not	0.007006
+had | and	0.006943
+every | and	0.006943
+no | #	0.006920
+the | her	0.006883
+your | in	0.006852
+some | in	0.006852
+ought | she	0.006835
+wanted | she	0.006835
+received | had	0.006769
+there | and	0.006739
+as | it	0.006722
+should | it	0.006722
+more | was	0.006669
+soon | was	0.006669
+going | was	0.006669
+sort | that	0.006641
+thought | he	0.006641
+may | i	0.006606
+cannot | you	0.006562
+bear | not	0.006539
+it | not	0.006539
+herself | to	0.006489
+eyes | her	0.006478
+so | her	0.006478
+very | her	0.006478
+hoped | she	0.006408
+looked | she	0.006408
+were | she	0.006408
+which | in	0.006396
+day | a	0.006390
+next | the	0.006344
+now | and	0.006330
+were | it	0.006327
+possible | it	0.006327
+see | i	0.006291
+as | was	0.006253
+still | was	0.006253
+rather | was	0.006253
+mrs | #	0.006195
+oh | #	0.006162
+party | the	0.006151
+day | the	0.006151
+carriage | the	0.006151
+my | to	0.006107
+told | he	0.006087
+saw | he	0.006087
+all | that	0.006087
+will | that	0.006087
+moment | that	0.006087
+said | be	0.006073
+happy | be	0.006073
+always | be	0.006073
+say | not	0.006072
+make | not	0.006072
+wish | not	0.006072
+thing | a	0.006070
+mind | of	0.006058
+you | of	0.006058
+having | of	0.006058
+some | of	0.006058
+heard | she	0.005980
+believed | she	0.005980
+came | she	0.005980
+remember | i	0.005977
+really | i	0.005977
+mr | in	0.005939
+town | in	0.005939
+time | in	0.005939
+be | it	0.005931
+ought | it	0.005931
+does | it	0.005931
+how | and	0.005922
+it | to	0.005916
+how | #	0.005899
+really | was	0.005836
+sure | was	0.005836
+only | was	0.005836
+different | a	0.005751
+bad | a	0.005751
+yet | and	0.005718
+face | her	0.005668
+and | her	0.005668
+saw | i	0.005662
+come | not	0.005605
+speak | not	0.005605
+she | not	0.005605
+one | not	0.005605
+let | not	0.005605
+give | not	0.005605
+even | not	0.005605
+least | the	0.005575
+only | the	0.005575
+married | be	0.005567
+need | you	0.005553
+ever | you	0.005553
+that | you	0.005553
+so | it	0.005536
+know | to	0.005534
+look | to	0.005534
+when | #	0.005503
+vain | in	0.005482
+so | #	0.005470
+degree | a	0.005431
+fine | a	0.005431
+more | a	0.005431
+state | a	0.005431
+just | was	0.005419
+her | #	0.005404
+what | #	0.005404
+miss | #	0.005404
+them | to	0.005344
+aunt | her	0.005263
+a | her	0.005263
+hand | her	0.005263
+door | the	0.005190
+greatest | the	0.005190
+get | to	0.005153
+very | it	0.005140
+believe | not	0.005138
+seem | not	0.005138
+see | not	0.005138
+much | not	0.005138
+often | not	0.005138
+said | she	0.005126
+highbury | of	0.005126
+those | of	0.005126
+smile | a	0.005112
+gentleman | a	0.005112
+look | a	0.005112
+not | and	0.005105
+who | #	0.005009
+one | was	0.005002
+such | was	0.005002
+gone | was	0.005002
+children | the	0.004998
+at | and	0.004901
+they | and	0.004901
+jane | and	0.004901
+side | her	0.004858
+heart | her	0.004858
+campbells | the	0.004806
+pleasure | the	0.004806
+present | the	0.004806
+crown | the	0.004806
+place | the	0.004806
+girl | a	0.004792
+time | a	0.004792
+talk | to	0.004771
+find | to	0.004771
+of | #	0.004745
+never | she	0.004699
+therefore | and	0.004697
+you | and	0.004697
+we | #	0.004679
+our | of	0.004660
+last | the	0.004614
+very | #	0.004613
+her | was	0.004585
+with | was	0.004585
+ready | was	0.004585
+harriet | to	0.004580
+this | #	0.004515
+for | and	0.004493
+pretty | a	0.004473
+point | a	0.004473
+week | a	0.004473
+thoughts | her	0.004453
+more | her	0.004453
+first | her	0.004453
+attention | her	0.004453
+brother | her	0.004453
+woodhouse | #	0.004449
+jane | of	0.004427
+others | the	0.004421
+harriet | #	0.004383
+seems | it	0.004350
+into | it	0.004350
+for | it	0.004350
+way | the	0.004229
+pleasure | of	0.004194
+doubt | a	0.004153
+mean | i	0.004089
+knew | i	0.004089
+said | i	0.004089
+understand | i	0.004089
+only | and	0.004084
+letter | the	0.004037
+case | the	0.004037
+highbury | to	0.004008
+however | #	0.003987
+though | #	0.003954
+at | #	0.003888
+who | and	0.003880
+on | and	0.003880
+said | and	0.003880
+sort | the	0.003845
+eltons | the	0.003845
+more | the	0.003845
+smallest | the	0.003845
+quarter | a	0.003834
+much | a	0.003834
+situation | a	0.003834
+hurry | a	0.003834
+wife | a	0.003834
+way | a	0.003834
+family | a	0.003834
+minute | a	0.003834
+yes | #	0.003823
+understand | to	0.003817
+pay | to	0.003817
+all | to	0.003817
+ever | i	0.003775
+want | i	0.003775
+indeed | #	0.003757
+frank | of	0.003728
+after | and	0.003676
+my | and	0.003676
+by | and	0.003676
+had | #	0.003658
+weather | the	0.003652
+join | to	0.003626
+meet | to	0.003626
+whom | to	0.003626
+not | #	0.003625
+mile | a	0.003514
+long | a	0.003514
+thousand | a	0.003514
+small | a	0.003514
+delightful | a	0.003514
+large | a	0.003514
+child | a	0.003514
+certain | a	0.003514
+us | of	0.003495
+could | and	0.003472
+might | i	0.003460
+like | i	0.003460
+say | i	0.003460
+felt | i	0.003460
+truth | the	0.003460
+wonder | i	0.003460
+ought | i	0.003460
+well | #	0.003460
+tell | to	0.003435
+his | #	0.003427
+by | #	0.003295
+name | the	0.003268
+worst | the	0.003268
+better | the	0.003268
+be | and	0.003267
+hartfield | of	0.003262
+leave | to	0.003244
+every | to	0.003244
+their | to	0.003244
+do | #	0.003229
+child | the	0.003076
+morning | the	0.003076
+matter | the	0.003076
+moment | the	0.003076
+right | the	0.003076
+what | and	0.003063
+ask | to	0.003053
+put | to	0.003053
+sit | to	0.003053
+stay | to	0.003053
+shew | to	0.003053
+randalls | to	0.003053
+spirits | of	0.003029
+life | of	0.003029
+on | #	0.002900
+frank | #	0.002900
+coles | the	0.002884
+ball | the	0.002884
+table | the	0.002884
+little | the	0.002884
+family | the	0.002884
+good | the	0.002884
+visit | the	0.002884
+call | to	0.002863
+walk | to	0.002863
+keep | to	0.002863
+what | to	0.002863
+is | #	0.002801
+no | of	0.002796
+something | of	0.002796
+both | of	0.002796
+such | #	0.002768
+churchills | the	0.002691
+point | the	0.002691
+instrument | the	0.002691
+evil | the	0.002691
+end | the	0.002691
+abbey | the	0.002691
+power | the	0.002691
+jane | to	0.002672
+himself | to	0.002672
+donwell | to	0.002672
+believe | to	0.002672
+good | and	0.002655
+we | and	0.002655
+emma | of	0.002563
+hearing | of	0.002563
+seeing | of	0.002563
+so | of	0.002563
+good | of	0.002563
+me | of	0.002563
+great | the	0.002499
+man | the	0.002499
+question | the	0.002499
+happiness | the	0.002499
+lady | the	0.002499
+utmost | the	0.002499
+usual | the	0.002499
+hope | the	0.002499
+match | the	0.002499
+difference | the	0.002499
+please | to	0.002481
+such | to	0.002481
+your | to	0.002481
+read | to	0.002481
+spend | to	0.002481
+sister | and	0.002450
+having | and	0.002450
+such | and	0.002450
+see | and	0.002450
+must | and	0.002450
+nothing | and	0.002450
+every | #	0.002439
+perhaps | #	0.002406
+` | #	0.002406
+jane | #	0.002406
+one | #	0.002373
+event | the	0.002307
+vicarage | the	0.002307
+drawing | the	0.002307
+pianoforte | the	0.002307
+martins | the	0.002307
+sight | the	0.002307
+advantage | the	0.002307
+without | #	0.002307
+london | to	0.002290
+suppose | to	0.002290
+bring | to	0.002290
+that | to	0.002290
+begin | to	0.002290
+another | to	0.002290
+myself | to	0.002290
+here | and	0.002246
+say | and	0.002246
+while | and	0.002246
+this | and	0.002246
+no | and	0.002246
+found | and	0.002246
+from | #	0.002241
+change | the	0.002115
+purpose | the	0.002115
+common | the	0.002115
+person | the	0.002115
+poor | the	0.002115
+country | the	0.002115
+acquaintance | the	0.002115
+churchill | #	0.002109
+cried | #	0.002109
+this | to	0.002099
+send | to	0.002099
+one | to	0.002099
+perry | #	0.001977
+goddard | #	0.001944
+cole | #	0.001878
+would | #	0.001878
+john | #	0.001845
+while | #	0.001845
+now | #	0.001845
+were | #	0.001812
+than | #	0.001812
+after | #	0.001747
+sir | #	0.001714
+chapter | #	0.001714
+all | #	0.001681
+upon | #	0.001681
+poor | #	0.001615
+replied | #	0.001582
+martin | #	0.001549
+dear | #	0.001516
+ah | #	0.001516
+your | #	0.001483
+nor | #	0.001450
+where | #	0.001450
+nothing | #	0.001450
+will | #	0.001450
+quite | #	0.001417
+could | #	0.001417
+only | #	0.001384
+before | #	0.001384
+dixon | #	0.001384
+why | #	0.001318
+let | #	0.001318
+an | #	0.001318
+did | #	0.001285
+never | #	0.001252
+till | #	0.001219
+because | #	0.001219
+have | #	0.001219
+then | #	0.001219
+here | #	0.001219
+just | #	0.001219
+room | #	0.001120
+day | #	0.001055
+bates | #	0.001022
+must | #	0.001022
+are | #	0.000989
+even | #	0.000923
+good | #	0.000923
+nobody | #	0.000890
+therefore | #	0.000890
+morrow | #	0.000890
+except | #	0.000857
+papa | #	0.000857
+may | #	0.000824
+some | #	0.000824
+their | #	0.000824
+pray | #	0.000824
+certainly | #	0.000824
+much | #	0.000824
+like | #	0.000791
+can | #	0.000791
+thank | #	0.000791
+looking | #	0.000791
+might | #	0.000758
+whether | #	0.000758
+more | #	0.000758
+whose | #	0.000758
+has | #	0.000725
+be | #	0.000692
+especially | #	0.000692
+these | #	0.000692
+too | #	0.000659
+most | #	0.000626
+t | #	0.000626
+should | #	0.000593
+made | #	0.000593
+something | #	0.000560
+under | #	0.000560
+having | #	0.000560
+whenever | #	0.000560
+am | #	0.000527
+seemed | #	0.000527
+twenty | #	0.000527
+being | #	0.000494
+thought | #	0.000494
+come | #	0.000494
+neither | #	0.000494
+still | #	0.000494
+rather | #	0.000494
+always | #	0.000494
+yet | #	0.000494
+smiling | #	0.000494
+any | #	0.000494
+almost | #	0.000494
+aye | #	0.000494
+don | #	0.000461
+whatever | #	0.000461
+instead | #	0.000461
+whom | #	0.000461
+depend | #	0.000461
+suckling | #	0.000461
+excepting | #	0.000428
+continued | #	0.000428
+besides | #	0.000428
+isabella | #	0.000428
+our | #	0.000428
+gave | #	0.000395
+hearted | #	0.000395
+many | #	0.000395
+turning | #	0.000395
+laughing | #	0.000395
+since | #	0.000395
+making | #	0.000395
+nay | #	0.000395
+two | #	0.000395
+true | #	0.000395
+another | #	0.000395
+law | #	0.000395
+campbell | #	0.000362
+e | #	0.000362
+shall | #	0.000362
+_she_ | #	0.000362
+those | #	0.000362
+about | #	0.000362
+probably | #	0.000362
+time | #	0.000362
+does | #	0.000362
+ma | #	0.000362
