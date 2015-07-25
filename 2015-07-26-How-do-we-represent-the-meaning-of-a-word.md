@@ -5,42 +5,42 @@ description: ""
 category: "NLP"
 tags: ["NLP","deep learning"]
 ---
-![Ë¹Ì¹¸£CS224d Lecture2](http://cs224d.stanford.edu/lectures/CS224d-Lecture2.pdf)
+[æ–¯å¦ç¦CS224d Lecture2](http://cs224d.stanford.edu/lectures/CS224d-Lecture2.pdf)
 
-## ¼ÆËã»úÔõÃ´±í´ïÒ»¸öword?
-- ÀûÓÃ·ÖÀàÏµÍ³Èçwordnet(NLTK)
-	- wordnet°´ÕÕ´ÊÒå(Í¬Òå´Ê)ºÍ´ÊĞÔµÄ±í´ïµ¥´Ê
-	- ÎÊÌâ£º
-		- ×ÊÔ´¶àµ«ÊÇÃ»ÓĞÒâÒå
-		- ĞÂµÄµ¥´Ê
-		- Ö÷Ìâ
-		- ĞèÒªÈË¹¤Î¬»¤
-		- ÄÑÒÔ¾«È·¼ÆËãµ¥´ÊµÄÏàËÆ¶È
+## è®¡ç®—æœºæ€ä¹ˆè¡¨è¾¾ä¸€ä¸ªword?
+- åˆ©ç”¨åˆ†ç±»ç³»ç»Ÿå¦‚wordnet(NLTK)
+	- wordnetæŒ‰ç…§è¯ä¹‰(åŒä¹‰è¯)å’Œè¯æ€§çš„è¡¨è¾¾å•è¯
+	- é—®é¢˜ï¼š
+		- èµ„æºå¤šä½†æ˜¯æ²¡æœ‰æ„ä¹‰
+		- æ–°çš„å•è¯
+		- ä¸»é¢˜
+		- éœ€è¦äººå·¥ç»´æŠ¤
+		- éš¾ä»¥ç²¾ç¡®è®¡ç®—å•è¯çš„ç›¸ä¼¼åº¦
 	
-- one-hot£¬½«µ¥´Ê±í´ïÎªÒ»¸öÏòÁ¿
-	- Î¬¶È 20K(speech) 50K(PTB) 500K(big vocab) 13M(Google 1T)
+- one-hotï¼Œå°†å•è¯è¡¨è¾¾ä¸ºä¸€ä¸ªå‘é‡
+	- ç»´åº¦ 20K(speech) 50K(PTB) 500K(big vocab) 13M(Google 1T)
 
-- »ùÓÚ·Ö²¼Ê½ÏàËÆ¶ÈµÄ±í´ï
-	- ÀûÓÃµ¥´ÊµÄÁÚ¾Ó±í´ïµ¥´Ê£¬µ±´úNLP×î³É¹¦µÄidea
+- åŸºäºåˆ†å¸ƒå¼ç›¸ä¼¼åº¦çš„è¡¨è¾¾
+	- åˆ©ç”¨å•è¯çš„é‚»å±…è¡¨è¾¾å•è¯ï¼Œå½“ä»£NLPæœ€æˆåŠŸçš„idea
 
-- ÔõÑùÀûÓÃÁÚ¾Ó±í´ï
+- æ€æ ·åˆ©ç”¨é‚»å±…è¡¨è¾¾
 	- cooccurence matrix
 	- full document (Latent Semantic Analysis)
 	- window (5-10)
-	- eg. ²Î¿´PPTµÚ7Ò³
-	- ÎÊÌâ£ºÎ¬¶ÈÌ«¸ß¡¢´æ´¢¿Õ¼äÌ«¶à¡¢Ä£ĞÍÏ¤Êı²»ÎÈ¶¨
-	- ½â¾ö£ºÊ¹ÓÃ¾­³£³öÏÖµÄµ¥´Ê£¬25-1000Î¬
+	- eg. å‚çœ‹PPTç¬¬7é¡µ
+	- é—®é¢˜ï¼šç»´åº¦å¤ªé«˜ã€å­˜å‚¨ç©ºé—´å¤ªå¤šã€æ¨¡å‹æ‚‰æ•°ä¸ç¨³å®š
+	- è§£å†³ï¼šä½¿ç”¨ç»å¸¸å‡ºç°çš„å•è¯ï¼Œ25-1000ç»´
 	
-- ½µÎ¬
+- é™ç»´
 	- SVD
-- µ¥´Ê±»±í´ïÎª´ÊÏòÁ¿£¬dense verctor
+- å•è¯è¢«è¡¨è¾¾ä¸ºè¯å‘é‡ï¼Œdense verctor
 - hack:
-	- ignore the he µÈµ¥´Ê
-	- Pearson ÏàËÆ¶È¶ø²»ÊÇcounts
+	- ignore the he ç­‰å•è¯
+	- Pearson ç›¸ä¼¼åº¦è€Œä¸æ˜¯counts
 	
 [1]An Improved Model of Seman3c Similarity Based on Lexical CoKOccurrence Rohde et al. 2005 
 
-- Ö±½ÓÑ§Ï°µÍÎ¬µÄµ¥´ÊÏòÁ¿
+- ç›´æ¥å­¦ä¹ ä½ç»´çš„å•è¯å‘é‡
 	- Learning representa3ons by backKpropaga3ng errors. 
 	(Rumelhart et al., 1986) 
 	- A neural probabilis3c language model (Bengio et al., 2003)   
@@ -50,8 +50,9 @@ tags: ["NLP","deep learning"]
 	 [2]Glove: Global Vectors for Word Representation
 
 ## word2vec
-- Ô¤²â³¤¶ÈÎªcµÄ´°¿ÚÀïµÄÃ¿Ò»¸öµ¥´Ê
-- Ä¿±êº¯Êı£º×î´ó»¯Ã¿Ò»¸öµ¥´ÊÔÚ¸ø¶¨µÄÖĞĞÄµ¥´ÊÏÂµÄ×Ü¸ÅÂÊ
+- é¢„æµ‹é•¿åº¦ä¸ºcçš„çª—å£é‡Œçš„æ¯ä¸€ä¸ªå•è¯
+- ç›®æ ‡å‡½æ•°ï¼šæœ€å¤§åŒ–æ¯ä¸€ä¸ªå•è¯åœ¨ç»™å®šçš„ä¸­å¿ƒå•è¯ä¸‹çš„æ€»æ¦‚ç‡
 ![J](word2vec001.png)
+
 
 	 
