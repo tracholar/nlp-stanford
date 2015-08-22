@@ -54,5 +54,30 @@ tags: ["NLP","deep learning"]
 - 目标函数：最大化每一个单词在给定的中心单词下的总概率
 ![J](word2vec001.png)
 
+word2vec 中的线性关系， x_apples - x_apple = x_cars - x_car
 
-	 
+## GloVe
+- 目标函数 J = SUM_ij f(Pij)(wi wj' - log Pij)^2
+- 速度快，适应于大语料
+- word embedding matrix
+
+## 对比与超参数
+- 最好的词向量维度300左右，依赖下游任务
+- 窗口大小8
+- 训练时间，训练数据越多越好
+- 任务，Example	dataset:	WordSim353	
+- 交叉熵损失函数和大间隔损失函数
+
+## tips
+- tanh激活函数通常比sigmoid好，跟快收敛
+- hard tanh， soft sign, reclu 计算量少
+- 参数初始化，与链接的神经元成反比
+- On	large	datasets,	SGD	usually	wins	over	all	batch	methods.	On	
+  smaller	datasets	L-BFGS	or	Conjugate	Gradients	win.	Large-batch	
+  L-BFGS	extends	the	reach	of	L-BFGS	[Le	et	al.	ICML	2011] 
+- 学习率，使用L-BFGS,AdaGrad可以自动计算较好的学习率
+  adagrad自适应次梯度
+- Long-Term	Dependencies	and	Clipping	Trick
+- Prevent	Feature	Co-adaptaHon： dropout
+
+
